@@ -45,7 +45,8 @@ Note: The Live Server extension will automatically refresh your browser whenever
 
 ![image](https://github.com/rishabh-sharma1712/Online-Quiz-App/assets/143999847/f4dd3c7b-d9f3-449b-bca7-a26f209303d0)
 
-![image](https://github.com/rishabh-sharma1712/Online-Quiz-App/assets/143999847/324860e4-56f1-4a24-9dba-1e1e708bb2bb)
+![image](https://github.com/rishabh-sharma1712/Online-Quiz-App/assets/143999847/9fe1b36f-6565-4287-9b8c-8a1eb9393d22)
+
 
 ![image](https://github.com/rishabh-sharma1712/Online-Quiz-App/assets/143999847/fce4ae4c-5039-4781-b4c7-6b287f09a24d)
 
